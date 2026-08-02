@@ -1,0 +1,36 @@
+{
+  "update_id": 400001,
+  "chat_member": {
+    "chat": {
+      "id": -1003298210028,
+      "title": "MarketMate",
+      "type": "channel"
+    },
+    "from": {
+      "id": 111111,
+      "is_bot": false,
+      "first_name": "Admin"
+    },
+    "date": 1710000000,
+    "old_chat_member": {
+      "user": {
+        "id": 444444,
+        "is_bot": false,
+        "first_name": "Lifetime",
+        "last_name": "User",
+        "username": "lifetime_user"
+      },
+      "status": "left"
+    },
+    "new_chat_member": {
+      "user": {
+        "id": 444444,
+        "is_bot": false,
+        "first_name": "Lifetime",
+        "last_name": "User",
+        "username": "lifetime_user"
+      },
+      "status": "member"
+    }
+  }
+}
